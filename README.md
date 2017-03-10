@@ -8,3 +8,5 @@ Just Fow Test!
 Add a new line.
 
 Add another line.
+
+Switch to master.
